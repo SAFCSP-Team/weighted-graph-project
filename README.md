@@ -1,5 +1,8 @@
 # Weighted Graph
 
+## Objective
+The purpose of the project is to validate your knowledge of graph implementation with an adjacency matrix and adjacency list.
+
 ## Problem 
 Do a representation of travling cost between four cities (Riyadh, Makkah, Jeddah, Neom) and display the weighted graph relations using adjacnecy matrix as below image.
 
