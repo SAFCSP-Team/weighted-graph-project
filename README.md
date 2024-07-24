@@ -1,13 +1,13 @@
 # Weighted Graph
 
 ## Objective
-The purpose of the project is to validate your knowledge of graph implementation with an adjacency matrix and adjacency list.
+The project aims to validate your graph implementation knowledge with an adjacency matrix and adjacency list.
 
 ## Problem 
-Do a representation of travling cost between four cities (Riyadh, Makkah, Jeddah, Neom) and display the weighted graph relations using adjacnecy matrix as below image.
+Do a representation of traveling costs between four cities (Riyadh, Makkah, Jeddah, Neom) and display the weighted graph relations using the adjacency matrix as in the below image.
 
 ## Implementation 
-Do the implemenation of the follwing methods in the class `Graph`:
+Do the implementation of the following methods in the class `Graph`:
 - Create an attribute `adjMatrix` to store the relations of the graph on integer 2D list with their cost.
 - Add edge between two cities with the cost of the travel, the row is source and the column is destenation.
 - Display the adjacnecy matrix of the graph with cities name and cost as below output.
