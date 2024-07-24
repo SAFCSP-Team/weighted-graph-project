@@ -1,11 +1,9 @@
-# Weighted Graph
+#Weighted Graph
 
-# Problem 
+##Problem 
 Do a representation of travling cost between four cities (Riyadh, Makkah, Jeddah, Neom) and display the weighted graph relations using adjacnecy matrix as below image.
 
-<!-- image of riaydh  -->
-
-# Implementation 
+##Implementation 
 Do the implemenation of the follwing methods in the class `Graph`:
 - Create an attribute `adjMatrix` to store the relations of the graph on integer 2D list with their cost.
 - Add edge between two cities with the cost of the travel, the row is source and the column is destenation.
