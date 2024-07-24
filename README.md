@@ -4,7 +4,7 @@
 The project aims to validate your graph implementation knowledge with an adjacency matrix and adjacency list.
 
 ## Problem 
-Do a representation of traveling costs between four cities (Riyadh, Makkah, Jeddah, Neom) and display the weighted graph relations using the adjacency matrix.
+Represent the travel costs between four cities (Riyadh, Makkah, Jeddah, Neom) with a weighted graph using an adjacency matrix.
 
 ## Implementation 
 Do the implementation of the following methods in the class `Graph`:
