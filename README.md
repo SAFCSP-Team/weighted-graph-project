@@ -4,13 +4,13 @@
 The project aims to validate your graph implementation knowledge with an adjacency matrix and adjacency list.
 
 ## Problem 
-Represent the travel costs between four cities (Riyadh, Makkah, Jeddah, Neom) with a weighted graph using an adjacency matrix.
+Represent the travel costs between four cities (Riyadh, Makkah, Jeddah, and Neom) with a weighted graph using an adjacency matrix.
 
 ## Implementation 
 Do the implementation of the following methods in the class `Graph`:
-- Create an attribute `adjMatrix` to store the relations of the graph on integer 2D list with their cost.
-- Add edge between two cities with the cost of the travel, the row is source and the column is destenation.
-- Display the adjacnecy matrix of the graph with cities name and cost as below output.
+- Create an attribute `adjMatrix` to store the relations of the graph on an integer 2D list with their cost.
+- Add an edge between two cities with the cost of the travel, the row is the source and the column is the destination.
+- Display the adjacency matrix of the graph with city names and costs as below output.
 
 ```java
 class Main {
@@ -31,7 +31,7 @@ class Main {
         System.out.println();
         // _________________ //
 
-        // do the implemenation of display adjacency matrix
+        //Do the implementation of the display adjacency matrix
         graph.display();
 
     }
